@@ -31,4 +31,38 @@ li{
 .contact-list a{
 	color: #171717;
 }
-
+.container{
+	width: 1195px;
+	margin: 0 auto;
+}
+.title{
+	color: #171717;
+	font-size: 28px;
+	margin-top: 30px;
+}
+.sub-image{
+	margin-top: 60px;
+	margin-right: 21px;
+}
+.last-sub-image{
+	margin-top: 60px;
+}
+.paragraph-container{
+	margin-top: 60px;
+}
+.between-paragraph{
+	margin-bottom: 18px;
+}
+.last-paragraph{
+	margin-bottom: 76px;
+}
+.more-information{
+	width: 207px;
+	margin: 0 auto 198px;
+	padding: 18px 78px;
+	background-color: #0A22F4;
+	border-radius: 28px;
+}
+.more-information a{
+	color: #FFFFFF;
+}
