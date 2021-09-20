@@ -50,6 +50,7 @@ li{
 .paragraph-container{
 	width: 950px;
 	margin: 60px auto;
+	line-height: 28px;
 }
 .between-paragraph{
 	margin-bottom: 18px;
