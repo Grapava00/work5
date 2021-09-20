@@ -67,3 +67,52 @@ li{
 .more-information a{
 	color: #FFFFFF;
 }
+footer{
+	background-color: #0A22F4;
+}
+.footer-container{
+	border: 1px solid blue
+}
+.map{
+	margin: 275px 0 92px 240px;
+	width: 470px;
+}
+.map h2{
+	color:#FFFFFF ;
+	font-size: 32px;
+	margin-bottom: 30px;
+}
+.map p{
+	color: #FFFFFF;
+	margin-bottom: 58px;
+}
+.map iframe{
+	border-radius: 15px;
+}
+.contact{
+	margin: 0 0 210px 240px;
+}
+.contact .number{
+	padding: 26px;
+	margin-right: 20px;
+	border-radius: 50px;
+	vertical-align: middle;
+	background-color: white;
+}
+.number-section span{
+	color: #FFFFFF;
+	font-size: 22px;
+	vertical-align: middle;
+}
+.contact .mail{
+	padding: 26px;
+	margin: 0 20px 0 120px ;
+	border-radius: 50px;
+	vertical-align: middle;
+	background-color: white;
+}
+.mail-section span{
+	color: #FFFFFF;
+	font-size: 22px;
+	vertical-align: middle;
+}
