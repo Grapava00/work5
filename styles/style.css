@@ -116,3 +116,29 @@ footer{
 	font-size: 22px;
 	vertical-align: middle;
 }
+.made-by .rights{
+	margin: 0 700px 40px 240px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.made-by .made{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 0 15px 40px 0;
+	vertical-align: middle;
+}
+.made-by .heart{
+	width: 26px;
+	margin: 0 0 40px 0;
+	vertical-align: middle;
+}
+.made-by .by{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 0 30px 40px 0;
+	vertical-align: middle;
+}
+.made-by .smart-web{
+	margin: 0 0 40px 0;
+}
+
